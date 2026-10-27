@@ -66673,5 +66673,12 @@
     "author": "Ashly Lorenzana",
     "description": "Create customizable forms and manage fictional correspondence as submissions and shared threads. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "monapdx/Papertrail-Forms"
+  },
+  {
+    "id": "obsidian-drive-keeper",
+    "name": "Obsidian Drive Vault Keeper",
+    "author": "kkh041014",
+    "description": "Mirror and back up your entire Obsidian vault untouched (1:1 binary preservation) to Google Drive once a day, and restore/sync on demand across macOS, Windows, and Android.",
+    "repo": "kkh041014/obsidian-drive-keeper"
   }
 ]
